@@ -1,6 +1,6 @@
-# Amazon-UI-UX-Clone-Android
+# Amazon-UI-UX-Clone
 
-UI Replica of Amazon Shopping app for Android    
+UI clone of Amazon Shopping app for Android    
 
 <img src="amazon.jpg" width="300">   
 
